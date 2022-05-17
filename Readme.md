@@ -1,4 +1,4 @@
 # HackerRank
 
 - HackerRank Challenges:
-    - Arrays
+    - [Arrays](https://github.com/TheJessicaBohn/HackerRank/tree/main/Challenge_1) 
