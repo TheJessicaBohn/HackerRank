@@ -7,5 +7,6 @@
     - [Simple-Array-Sum](https://github.com/TheJessicaBohn/HackerRank/tree/main/2_Simple-Array-Sum)
     - [Compare-The-Triplets](https://github.com/TheJessicaBohn/HackerRank/tree/main/3_Compare-The-Triplets)
     - [A-Very-Big-Sum](https://github.com/TheJessicaBohn/HackerRank/tree/main/4_A-Very-Big-Sum)
+    - [Diagonal-Difference](https://github.com/TheJessicaBohn/HackerRank/tree/main/5_Diagonal-Difference)
 - Structure:
     - [Arrays](https://github.com/TheJessicaBohn/HackerRank/tree/main/Challenge_1) 
