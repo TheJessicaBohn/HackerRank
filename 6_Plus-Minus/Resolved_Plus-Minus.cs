@@ -16,9 +16,9 @@ class Result
 {
     public static void plusMinus(List<int> arr)
     {
-        long positives = 0;
-        long negatives = 0;
-        long zeros = 0;
+        float positives = 0;
+        float negatives = 0;
+        float zeros = 0;
         
         for(var i = 0; i < arr.Count; i++) {
             if(arr[i] > 0)
@@ -33,11 +33,11 @@ class Result
             }  
         }
         
-        long longArray = arr.Count;
+        int longArray = arr.Count;
         
-        Console.Out.WriteLine((positives/arr.Count).ToString("0.00"));
-        Console.Out.WriteLine((negatives/longArray).ToString("0.00"));
-        Console.Out.WriteLine((zeros/longArray).ToString("0.00"));
+        Console.Out.WriteLine((positives/longArray).ToString("0.000000"));
+        Console.Out.WriteLine((negatives/longArray).ToString("0.000000"));
+        Console.Out.WriteLine((zeros/longArray).ToString("0.000000"));
 
     }
 
