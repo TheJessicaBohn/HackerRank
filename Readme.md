@@ -9,5 +9,6 @@
     - [A-Very-Big-Sum](https://github.com/TheJessicaBohn/HackerRank/tree/main/4_A-Very-Big-Sum)
     - [Diagonal-Difference](https://github.com/TheJessicaBohn/HackerRank/tree/main/5_Diagonal-Difference)
     - [Plus-Minus](https://github.com/TheJessicaBohn/HackerRank/tree/main/6_Plus-Minus)
+    - [Staircase](https://github.com/TheJessicaBohn/HackerRank/tree/main/7_Staircase)
 - Structure:
     - [Arrays](https://github.com/TheJessicaBohn/HackerRank/tree/main/Challenge_1) 
