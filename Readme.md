@@ -10,5 +10,6 @@
     - [Diagonal-Difference](https://github.com/TheJessicaBohn/HackerRank/tree/main/5_Diagonal-Difference)
     - [Plus-Minus](https://github.com/TheJessicaBohn/HackerRank/tree/main/6_Plus-Minus)
     - [Staircase](https://github.com/TheJessicaBohn/HackerRank/tree/main/7_Staircase)
+    - [Mini-Max-Sum](https://github.com/TheJessicaBohn/HackerRank/tree/main/8_Mini-Max-Sum)
 - Structure:
     - [Arrays](https://github.com/TheJessicaBohn/HackerRank/tree/main/Challenge_1) 
