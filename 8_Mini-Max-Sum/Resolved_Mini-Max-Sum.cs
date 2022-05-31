@@ -17,11 +17,12 @@ class Result
 
     public static void miniMaxSum(List<int> arr)
     {
-        long minSum = arr.Sum() - arr.Max();
-        long maxSum = arr.Sum() - arr.Min();
+        long minSum = arr.Sum(item => (long)item) - arr.Max();
+        long maxSum = arr.Sum(item => (long)item) - arr.Min();
+     
         StringBuilder sums = new StringBuilder();
         sums.Append(minSum).Append(" ").Append(maxSum);
-        
+
         Console.WriteLine(sums);
     }
     
