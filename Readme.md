@@ -11,5 +11,6 @@
     - [Plus-Minus](https://github.com/TheJessicaBohn/HackerRank/tree/main/6_Plus-Minus)
     - [Staircase](https://github.com/TheJessicaBohn/HackerRank/tree/main/7_Staircase)
     - [Mini-Max-Sum](https://github.com/TheJessicaBohn/HackerRank/tree/main/8_Mini-Max-Sum)
+    - [Birthday-Cake-Candles](https://github.com/TheJessicaBohn/HackerRank/tree/main/9_Birthday-Cake-Candles)
 - Structure:
     - [Arrays](https://github.com/TheJessicaBohn/HackerRank/tree/main/Challenge_1) 
