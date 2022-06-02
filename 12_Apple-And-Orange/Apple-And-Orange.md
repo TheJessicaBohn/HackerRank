@@ -24,15 +24,21 @@ countApplesAndOranges has the following parameter(s):
  - t: integer, ending location of Sam's house location.
  - a: integer, location of the Apple tree.
  - b: integer, location of the Orange tree.
-apples: integer array, distances at which each apple falls from the tree.
-oranges: integer array, distances at which each orange falls from the tree.
-Input Format
+ - apples: integer array, distances at which each apple falls from the tree.
+ - oranges: integer array, distances at which each orange falls from the tree.
 
-The first line contains two space-separated integers denoting the respective values of  and .
-The second line contains two space-separated integers denoting the respective values of  and .
-The third line contains two space-separated integers denoting the respective values of  and .
-The fourth line contains  space-separated integers denoting the respective distances that each apple falls from point .
-The fifth line contains  space-separated integers denoting the respective distances that each orange falls from point .
+- Input Format
+
+The first line contains two space-separated integers denoting the respective values of s and t.
+The second line contains two space-separated integers denoting the respective values of a and b.
+The third line contains two space-separated integers denoting the respective values of m and n.
+The fourth line contains m space-separated integers denoting the respective distances that each apple falls from point a.
+The fifth line contains n space-separated integers denoting the respective distances that each orange falls from point b.
 
 Constraints
+1 <= s,t,a,b,m,n <= 10^5
+-10^5 <= d <= 10^5
+a < s < t < b
+
+
 
