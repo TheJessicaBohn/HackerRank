@@ -36,9 +36,13 @@ The fourth line contains m space-separated integers denoting the respective dist
 The fifth line contains n space-separated integers denoting the respective distances that each orange falls from point b.
 
 Constraints
+
 1 <= s,t,a,b,m,n <= 10^5
 -10^5 <= d <= 10^5
 a < s < t < b
+
+![image](https://user-images.githubusercontent.com/47541659/171535800-39acdc8d-6d98-48b8-89cb-1945d4ef093e.png)
+
 
 
 
