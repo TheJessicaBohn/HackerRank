@@ -41,5 +41,8 @@ Constraints
 -10^5 <= d <= 10^5
 a < s < t < b
 
+![image](https://user-images.githubusercontent.com/47541659/171535800-39acdc8d-6d98-48b8-89cb-1945d4ef093e.png)
+
+
 
 
