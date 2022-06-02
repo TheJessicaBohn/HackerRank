@@ -17,16 +17,15 @@ class Result
 
     public static List<int> gradingStudents(List<int> grades)
     {
-        var i = 0;
-        int nextMultipleOfFive = grades[i] % 5;
-        
-        if (grades[i] >= 38) {
-            nextMultipleOfFive++;
-            if (nextMultipleOfFive > 2) {
-                grades[i] += 5 - nextMultipleOfFive;
+            
+        for (var i = 0; i < grades.Count; i++){  
+            if (grades[i] >= 38) {
+                if(grades[i] % 5 >= 3) {
+                    grades[i] = grades[i] + (5 - grades[i] % 5); 
+                }
             }
         }
-
+        
         return grades;
     }
 
